@@ -1,15 +1,21 @@
 # A. Z. M. Rafkat
 
-**Digital Transformation & Analytics Lead | Product Strategy | Solution Architecture**
+**Digital Transformation & Analytics Lead · Product Strategy · Solution Architecture**
 
-I design business systems and lead their delivery, from mapping workflows with operational teams to defining requirements, working with developers, and helping teams put the systems into use.
+I work with operations, finance, and engineering teams to turn business requirements into systems people can use. My work spans workflow design, delivery, and reporting for the teams that run the business.
 
-## Selected work
+## Expertise
 
-- **Enterprise systems at AVON** — Designed ERP workflows and led digital initiatives across VAT reporting, payroll, field sales data capture, and management analytics.
-- **Manufacturing ERP for Nordic Audio Labs** — Designed the workflow connecting production, orders, sales, cost of goods sold, and accounting.
-- **Master data management for Jazzware** — Led work on Salesforce data cleansing and enrichment, data restructuring, and alignment with IoT data.
+| Area | What I do |
+| --- | --- |
+| **Digital transformation** | Map current workflows, define what needs to change, and coordinate delivery and rollout. |
+| **ERP and CRM** | Design workflows across production, sales, finance, payroll, and customer data. |
+| **Product strategy and solution design** | Translate business needs into requirements, process maps, and acceptance criteria developers can build and test. |
+| **Analytics and reporting** | Define KPIs and design reporting that helps managers track sales, collections, receivables, and margin. |
 
-## Areas of focus
+## Featured portfolio projects
 
-Digital transformation · ERP and CRM · Product strategy · Solution design · Analytics and reporting · Cross-functional delivery
+- [**Manufacturing ERP case study**](https://github.com/azmRafkat/manufacturing-erp-case-study) · Follow a fictional order through materials planning, production, quality, costing, and invoicing.
+- [**Sales and collections dashboard**](https://github.com/azmRafkat/sales-collections-dashboard) · Explore a working dashboard with fictional regional sales, collections, receivables, and margin.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/a-z-m-rafkat-10404042/)
