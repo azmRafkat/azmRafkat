@@ -40,7 +40,7 @@ flowchart TD
 
 - [JazzWare Salesforce CRM MDM](https://github.com/azmRafkat/master-data-management-case-study) · Led Salesforce customer data cleansing, enrichment, and restructuring, including alignment with IoT data.
 - [Health Facility Data and GIS](https://github.com/azmRafkat/health-facility-gis-case-study) · Sample facility registry, map validation, and location quality checks.
-- [Sales and collections dashboard](https://github.com/azmRafkat/sales-collections-dashboard) · Working demo with synthetic regional sales, collections, receivables, and margin.
+- [Sales and collections dashboard](https://azmrafkat.github.io/sales-collections-dashboard/) · Working demo with synthetic regional sales, collections, receivables, and margin.
 - [Fish Farming AI Product Concept](https://github.com/azmRafkat/fish-farming-ai-concept) · Bangla-first farmer learning and pond support concept with expert referral considerations.
 
 Case study examples use fictional data where applicable and demonstrate workflow and product thinking.
