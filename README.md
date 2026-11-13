@@ -8,6 +8,20 @@ I work with operations, finance, and engineering teams to turn business requirem
 
 Digital transformation · ERP and CRM · Product strategy · Solution design · Analytics and reporting · Cross-functional delivery
 
+## Project Map
+
+```mermaid
+flowchart TD
+    A[Business systems] --> B[ERP and operations]
+    A --> C[Data and decision support]
+    B --> D[AVON ERP · VAT ERP · Field App]
+    B --> E[Mukta Water ERP · DPHE Billing]
+    B --> F[Moitry Plastic ERP · HED-IMMS]
+    C --> G[JazzWare Salesforce CRM MDM]
+    C --> H[Sales and collections dashboard]
+    C --> I[Health facility GIS · AI product concept]
+```
+
 ## Featured Portfolio Projects
 
 ### Enterprise systems
